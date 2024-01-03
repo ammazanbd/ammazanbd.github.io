@@ -156,6 +156,15 @@ span {
   align-items: flex-end;
 }
 
+.hero-section-login {
+  background-image: url(hero_image-login_page.jpg);
+  background-size: cover;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
 .hero-msg {
   background-color: white;
   color: black;
