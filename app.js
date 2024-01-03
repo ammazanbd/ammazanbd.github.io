@@ -23,7 +23,7 @@ class LoginForm extends React.Component {
     // Perform login validation here
     // Replace the if condition with your own validation logic
     if (this.state.email === 'admin@gmail.com' && this.state.password === 'admin2024') {
-      window.location.href = 'https://ammazanbd.github.io';
+      window.location.href = 'ammazanbd-pro.html';
     } else {
       alert('Invalid email or password');
     }
